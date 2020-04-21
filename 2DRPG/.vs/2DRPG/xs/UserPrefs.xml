@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AE8F51F6-26A6-153C-9495-FE0570CACAB2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerMove.cs" Line="7" Column="39" />
+      <File FileName="Assets/Scripts/AnimationStateController.cs" Line="51" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2DRPG" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="playerMove.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="035e7981-f01e-47ee-bcd3-a6b2c8e0b435" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
